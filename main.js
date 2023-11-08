@@ -1,4 +1,4 @@
-const a = 45;
+const a = 48;
 console.log(a);
 
 const time = new Date().toString();
